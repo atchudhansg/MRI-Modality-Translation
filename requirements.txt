@@ -1,0 +1,9 @@
+monai
+torch
+torchvision
+torchmetrics
+numpy
+scikit-learn
+matplotlib
+scikit-image
+tqdm
