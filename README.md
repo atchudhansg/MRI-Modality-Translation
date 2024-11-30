@@ -1,4 +1,4 @@
-# Cross-Domain MRI Synthesis: FLAIR to T1 Translation
+# Explainable Cross-Domain MRI Synthesis: FLAIR to T1 Translation with Pix2Pix GAN and Grad-CAM
 ## 🧠 Medical Image Translation Research Project
 ### Abstract
 This research project addresses the critical challenge of cross-domain medical image synthesis, specifically translating Fluid-Attenuated Inversion Recovery (FLAIR) magnetic resonance imaging (MRI) scans to T1-weighted MRI scans using advanced deep learning techniques.
