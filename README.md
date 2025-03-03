@@ -66,7 +66,7 @@ The primary aim of this research is to develop an AI-assisted tool that:
    - Assess potential diagnostic value in various clinical scenarios
 
 2. **Explainable AI Focus**
-   - Demonstrate how the model highlights critical image features
+   - Demonstrate how the model highlights critical features of the image
    - Provide visual explanations of image translation process
    - Enable doctors to understand and verify AI-generated insights
 
